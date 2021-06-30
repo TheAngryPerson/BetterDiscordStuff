@@ -1,2 +1,2 @@
 # Better Call Notifications
-Allows the user to disable call notifications even without dnd and enable call notifications to bypass dnd.
+Allows the user to disable call notifications even without dnd and enables call notifications to bypass dnd.
