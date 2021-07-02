@@ -1,3 +1,3 @@
 # BetterDiscordStuff
 
-Where my betterdiscord things are located.
+Where my BetterDiscord things are located.
